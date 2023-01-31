@@ -260,6 +260,7 @@ a:hover, a:active {
 /* Template Config */
 .config {
     position: fixed;
+    display: none;
     top: 50%;
     right: -282px;
     padding: 5px;
